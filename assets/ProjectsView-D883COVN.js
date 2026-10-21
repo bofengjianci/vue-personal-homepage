@@ -1,0 +1,1 @@
+import{L as e,V as t,m as n,t as r,v as i}from"./_plugin-vue_export-helper-DxHeU25L.js";var a={class:`projects-page`},o=r({__name:`ProjectsView`,setup(r){return(r,o)=>{let s=t(`RouterView`);return e(),n(`div`,a,[i(s)])}}},[[`__scopeId`,`data-v-a2308d35`]]);export{o as default};
